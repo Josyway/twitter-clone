@@ -1,1 +1,1 @@
-export const API_BASE_URL = ['http://localhost:8000', 'https://josyway.pythonanywhere.com/' ];
+export const API_BASE_URL = ['https://Josyway.pythonanywhere.com/', 'https://josyway.pythonanywhere.com/' ];
