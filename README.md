@@ -251,13 +251,15 @@ npm install
 No arquivo base_api, localizado no caminho: `src/api/base_api` altere o endereço atual:
 
 ```py
-export const API_BASE_URL = 'https://analice.pythonanywhere.com/';
+export const API_BASE_URL = 'https://Josyway.pythonanywhere.com/';
 ```
 
 Para localhost rodando em Django (segundo o seu backend):
 
 ```py
 export const API_BASE_URL = 'http://localhost:8000';
+or
+export const API_BASE_URL = 'http://127.0.0.1:8000';
 ```
 
 Se estiver rodando em outro endereço, realize a alteração.
@@ -276,13 +278,3 @@ Agora, com o frontend e backend rodando localmente, você deve ser capaz de test
 - **Paginação**: Implementar paginação nos endpoints caso os dados ganhem volume significativo.
 - Implementar resposta a um tweet no frontend.
 
-## 8. Contribuições
-
-Sugestões são bem-vindas! Para contribuir:
-
-- Faça um fork do projeto.
-- Crie uma branch para suas alterações.
-- Envie um Pull Request quando estiver pronto.
-- Para sugestões ou problemas, fique à vontade para abrir uma issue.
-
-Obrigado por ajudar a melhorar este projeto! 😊
