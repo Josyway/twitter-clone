@@ -139,7 +139,7 @@ A aplicação foi construída com um conjunto de ferramentas e bibliotecas moder
 Abra seu terminal e execute o seguinte comando para clonar o repositório:
 
 ```cmd
-git clone https://github.com/analiceleite/twitter_clone.git
+git clone https://github.com/Josyway/twitter-clone.git
 ```
 ### 2. Navegar para o Diretório do Projeto
 
